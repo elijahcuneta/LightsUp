@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b767918b62302744c83ca0f00715632e
+timeCreated: 1521708438
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Lemon Yellow Sun
+  fontNames:
+  - DK Lemon Yellow Sun
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

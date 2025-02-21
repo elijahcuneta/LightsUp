@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a5f0ad6f5b1562240b6b3c1b3b597513
+timeCreated: 1517381965
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Clarks Summit
+  fontNames:
+  - Clarks Summit
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

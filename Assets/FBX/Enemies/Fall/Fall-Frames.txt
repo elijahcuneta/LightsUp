@@ -1,0 +1,20 @@
+Fall Animation
+
+1-60 Idle
+~~~~~~~~~~~Normal Attacks
+
+61-120 Attack 1 
+121-203 Attack 2
+
+~~~~~~~~~~~Blinding Light Attack
+
+204-279 Attack 3
+
+~~~~~~~~~~~Light Ray Attack
+280-448 Attack 4
+
+449-530 Hit 1
+531-599 Hit 2
+600-644 Hit 3
+
+645-726 Death
